@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_65"/>
+	<classpathentry kind="lib" path="C:/jape-3.20b399.jar"/>
+	<classpathentry kind="lib" path="C:/mge-modelcore-3.20b399.jar"/>
+	<classpathentry kind="lib" path="C:/SankhyaW-extensions.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
